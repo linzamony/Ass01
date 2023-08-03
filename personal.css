@@ -1,0 +1,59 @@
+body {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: right;
+    border-bottom: 1px solid #ccc;
+}
+
+th {
+    background-color: lightblue;
+}
+
+td {
+    background-color: #f2f2f2;
+}
+
+.input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.logo {
+
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    width: 200px;
+    height: 103px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://bdu.ac.bd/assets/images/logo/logo1.png");
+
+
+
+}
